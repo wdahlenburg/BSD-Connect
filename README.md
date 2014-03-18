@@ -23,6 +23,7 @@ Internal IP of HS-USERS is 10.20.2.14
 Internal IP of BR-USERS is 10.140.2.12
 Internal IP of *BSD-NSM1 is 10.2.1.30
 All connections are made through port 524	Internal IP of HS-USERS is 10.20.2.14
+	Internal IP of HS-USERS is 10.20.2.14
 	Internal IP of BR-USERS is 10.140.2.12
 	Internal IP of *BSD-NSM1 is 10.2.1.30
 	All connections are made through port 524
