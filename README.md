@@ -7,7 +7,7 @@ Ex.
 
 	jdoe.2019 should log in as jdoe
 
-File can be downloaded from http://http://128.211.240.242/downloads/BSD%20Connect.zip
+File can be downloaded from http://wdahlenburg.me/downloads/BSD%20Connect.zip
 
 Logistics:
 
